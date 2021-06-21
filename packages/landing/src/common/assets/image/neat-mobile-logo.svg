@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1920 1080">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="idAngle" value="45"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+</metadata>
+<defs/>
+<g id="Layer 5 copy" vectornator:layerName="Layer 5 copy">
+<path d="M708.295+137.062L1113.89+137.062C1217.28+137.062+1301.09+219.896+1301.09+322.078L1301.09+722.945C1301.09+825.126+1217.28+907.96+1113.89+907.96L708.295+907.96C604.907+907.96+521.095+825.126+521.095+722.945L521.095+322.078C521.095+219.896+604.907+137.062+708.295+137.062Z" opacity="1" fill="#00223e"/>
+</g>
+<g id="layer" vectornator:layerName="layer">
+<path stroke="#ffffff" vectornator:shadowColor="#7a7a7a" vectornator:shadowOffset="14" stroke-width="14" fill="#ffffff" stroke-linecap="round" vectornator:shadowAngle="0" stroke-linejoin="miter" opacity="1" vectornator:shadowRadius="0" d="M920.117+470.41C961.091+479.385+959.617+529.868+916.825+583.168C874.034+636.467+806.129+672.4+765.156+663.426C724.183+654.451+725.657+603.968+768.448+550.669C811.24+497.369+879.144+461.436+920.117+470.41Z" vectornator:shadowOpacity="1"/>
+<path stroke="#ffffff" vectornator:shadowColor="#7a7a7a" vectornator:shadowOffset="14" stroke-width="14" fill="#8700b3" stroke-linecap="round" vectornator:shadowAngle="0" stroke-linejoin="miter" opacity="1" vectornator:shadowRadius="0" d="M947.653+417.464C917.504+416.945+885.599+421.212+853.37+430.732C724.451+468.808+639.6+577.253+663.847+672.933C688.093+768.612+812.257+815.245+941.175+777.168C1070.09+739.092+1154.94+630.729+1130.7+535.049C1112.51+463.29+1038.1+419.018+947.653+417.464ZM894.833+502.87C926.543+509.778+925.403+548.637+892.286+589.664C859.169+630.691+806.616+658.351+774.906+651.443C743.196+644.535+744.337+605.676+777.454+564.648C810.571+523.621+863.123+495.962+894.833+502.87Z" vectornator:shadowOpacity="1"/>
+<path stroke="#ffffff" vectornator:shadowColor="#7a7a7a" vectornator:shadowOffset="14" stroke-width="14" fill="#8700b3" stroke-linecap="round" vectornator:shadowAngle="0" stroke-linejoin="miter" opacity="1" vectornator:shadowRadius="0" d="M1134.73+582.583C1131.41+600.781+1132.43+595.441+1125.9+613.31C1119.36+631.178+1110.73+642.609+1110.73+642.609L1164.92+780.136L1030.66+732.619C1030.66+732.619+979.786+764.459+967.297+768.258M1046.98+445.387C1030.38+430.979+1034.57+434.394+1027.32+424.75C1020.96+416.279+1028.84+390.027+1019.35+375.772C1009.17+360.472+990.121+346.77+965.32+341.438C942.614+336.557+917.878+332.253+896.43+333.294C884.243+333.885+894.236+332.933+876.476+333.945C872.909+334.148+871.065+334.377+862.229+335.993C855.432+337.237+848.61+338.606+841.785+340.092C805.532+347.986+790.494+359.73+756.954+377.056C749.184+381.07+733.042+391.514+718.073+398.519C708.329+403.08+703.823+404.056+696.059+403.359C689.482+402.768+686.272+403.12+680.129+397.747C673.986+392.374+672.677+391.752+669.34+383.244C666.003+374.737+665.886+373.779+664.346+364.373C662.805+354.966+662.709+353.49+663.176+345.618C663.643+337.746+663.109+337.182+665.661+328.34C668.73+317.707+668.876+318.446+674.283+312.243C679.172+306.636+682.534+304.498+696.678+295.714C712.865+285.662+730.959+278.837+740.013+274.721C820.773+238.006+924.252+218.793+1008.18+245.465C1044.72+257.077+1085.88+276.824+1110.27+307.347C1132.73+335.452+1128.47+390.89+1130.67+425.581C1133.8+474.955+1150.06+566.647+1122.93+620.073" vectornator:shadowOpacity="1"/>
+</g>
+</svg>

@@ -12,8 +12,8 @@ import Button from 'common/components/Button';
 import Container from 'common/components/UI/Container';
 import useOnClickOutside from 'common/hooks/useOnClickOutside';
 import NavbarWrapper, { MenuArea, MobileMenu, Search } from './navbar.style';
-import LogoImage from 'common/assets/image/appModern/logo-white.png';
-import LogoImageAlt from 'common/assets/image/appModern/logo.png';
+import LogoImage from 'common/assets/image/neat-full-logo.svg';
+import LogoImageAlt from 'common/assets/image/neat-full-logo.svg';
 
 import { navbar } from 'common/data/AppModern';
 

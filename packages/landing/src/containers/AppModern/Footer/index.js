@@ -4,6 +4,8 @@ import Box from 'common/components/Box';
 import Text from 'common/components/Text';
 import Image from 'common/components/Image';
 import Logo from 'common/components/UIElements/Logo';
+import TransparentLogo from 'common/assets/image/neat-full-logo--transparent.svg';
+
 import Heading from 'common/components/Heading';
 import Container from 'common/components/UI/Container';
 import FooterArea, {
@@ -29,7 +31,7 @@ const Footer = () => {
           <Logo
             className="logo"
             href="/appclassic"
-            logoSrc={logo}
+            logoSrc={TransparentLogo}
             title="App Classic"
           />
           <Menu>
