@@ -76,7 +76,7 @@ const Banner = () => {
           <Fade up delay={100}>
             <Heading
               as="h1"
-              content="Eine neue Art sein Netzwerk zu erweitern."
+              content="Eine neue Art dein Netzwerk gezielt aufzubauen."
             />
           </Fade>
           <Fade up delay={200}>

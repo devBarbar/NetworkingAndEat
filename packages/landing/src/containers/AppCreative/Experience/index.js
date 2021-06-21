@@ -80,54 +80,7 @@ const Experiences = () => {
               icon={<Icon className="plus" icon={ic_play_arrow} />}
             />
           </VideoArea>
-          <ExperienceWrapper>
-            {features.map((item, index) => (
-              <FeatureBlock
-                key={`post_key-${index}`}
-                id={`post_id-${item.id}`}
-                className="experience__item"
-                icon={
-                  <Image
-                    src={item.icon}
-                    alt={`Icon ${item.id}`}
-                    objectFit="cover"
-                    className="experience__image"
-                  />
-                }
-                iconPosition="left"
-                title={<Heading as="h4" content={item.title} />}
-                description={<Text content={item.description} />}
-              />
-            ))}
-          </ExperienceWrapper>
         </ExperienceMainWrap>
-        <ClientWrapper>
-          <div className="client__text">
-            <Text as="span" content={'Companies who worked with us proudly'} />
-          </div>
-          <ImageSlider>
-            <ImageSlide>
-              {clients.map((item) => (
-                <Logo
-                  key={`slide1__key${item.id}`}
-                  href={item.link}
-                  logoSrc={item.logo}
-                  title={item.name}
-                />
-              ))}
-            </ImageSlide>
-            <ImageSlide>
-              {clients.map((item) => (
-                <Logo
-                  key={`slide2__key${item.id}`}
-                  href={item.link}
-                  logoSrc={item.logo}
-                  title={item.name}
-                />
-              ))}
-            </ImageSlide>
-          </ImageSlider>
-        </ClientWrapper>
       </Container>
     </SectionWrapper>
   );

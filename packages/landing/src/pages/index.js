@@ -7,11 +7,7 @@ import Navbar from 'containers/AppModern/Navbar';
 import Banner from 'containers/AppModern/Banner';
 import AppSlider from 'containers/AppModern/AppSlider';
 import Features from 'containers/AppModern/Features';
-import DashboardFeatures from 'containers/AppModern/Dashboard';
-import ProductSlide from 'containers/AppModern/ProductSlide';
-import DesignedAndBuilt from 'containers/AppModern/DesignedAndBuilt';
-import PricingPolicy from 'containers/AppModern/PricingPolicy';
-import Testimonial from 'containers/AppModern/Testimonial';
+import Experience from 'containers/AppCreative/Experience';
 import Newsletter from 'containers/AppModern/Newsletter';
 import Footer from 'containers/AppModern/Footer';
 import GlobalStyle, {
@@ -51,6 +47,7 @@ const AppModern = () => {
           </Sticky>
           <ContentWrapper>
             <Banner />
+            <Experience></Experience>
             <Features />
             <AppSlider />
             {/* <Testimonial /> */}

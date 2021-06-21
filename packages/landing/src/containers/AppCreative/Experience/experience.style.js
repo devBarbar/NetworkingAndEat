@@ -24,6 +24,7 @@ const playPluse = keyframes`
 const SectionWrapper = styled.section`
   width: 100%;
   padding-bottom: 70px;
+  padding-top: 100px;
   position: relative;
   @media only screen and (max-width: 991px) {
     padding-bottom: 60px;
@@ -37,7 +38,6 @@ const SectionWrapper = styled.section`
     left: 0;
     width: 100%;
     height: 80.5%;
-    background-color: ${themeGet('colors.light', '#FAF7FA')};
     content: '';
   }
   .container {
@@ -59,11 +59,13 @@ export const ExperienceMainWrap = styled.div`
 `;
 export const VideoArea = styled.div`
   display: inline-flex;
+  justify-content: center;
   position: relative;
   margin: 0 auto 60px;
   img {
-    max-width: 100%;
+    max-width: 70%;
     object-fit: cover;
+
     cursor: pointer;
     height: 100%;
     border-radius: 10px;

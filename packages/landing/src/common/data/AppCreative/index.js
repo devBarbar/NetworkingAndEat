@@ -130,7 +130,7 @@ import forbes from '../../assets/image/appCreative/client_logo/5.png';
 import evernote from '../../assets/image/appCreative/client_logo/6.png';
 
 export const experiences = {
-  title: 'Listen our user experience stories',
+  title: 'Title Kurze Zusammenfassung...',
   slogan:
     'Build an incredible workplace and grow your business with Gusto’s all-in-one platform with amazing contents.',
   video_theme: videoTheme,
